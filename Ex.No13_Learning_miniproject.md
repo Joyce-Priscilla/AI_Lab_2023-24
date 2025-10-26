@@ -7,9 +7,9 @@ To predict the power output (kW) of a wind turbine using real-time operational a
 
 ###  Algorithm:
 
-## Algorithm (Random Forest Regressor)
+### Algorithm (Random Forest Regressor)
 
-## Step 1: Data Collection
+### Step 1: Data Collection
 
 Collect the wind turbine dataset (T1.csv) containing features like wind speed, temperature, rotor speed, and the target column LV ActivePower (kW).
 
