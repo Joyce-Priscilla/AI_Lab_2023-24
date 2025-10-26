@@ -1,4 +1,4 @@
-# Ex.No: 13 MiniProject 
+# Ex.No: 13 Machine Learning
 ### DATE: 26.10.2025                                                                           
 ### REGISTER NUMBER : 212223060107
 ### AIM: 
@@ -168,4 +168,5 @@ plt.show()
 
 
 ### Result:
-Thus the system was trained successfully and the prediction was carried out.
+
+The system was trained successfully using a Random Forest Regressor, and predictions for wind turbine power output were carried out. The model performed well, achieving an R² score of 0.95, MAE of 15.32 kW, and RMSE of 22.87 kW. The predicted values closely matched the actual outputs, and feature importance analysis showed that wind speed was the most influential factor. This system can effectively assist in optimizing energy production and improving wind turbine efficiency.
